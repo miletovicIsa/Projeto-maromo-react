@@ -6,8 +6,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
+**Isabela Marques Miletovic**
 **Kaio Alexsander da Silva de Sá**
 
 ## 🧩 Descrição do Projeto
