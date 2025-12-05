@@ -8,8 +8,8 @@
 
 ## 👨‍💻 Autores
 
-**Isabela Marques Miletovic**
-**Kaio Alexsander da Silva de Sá**
+* **Isabela Marques Miletovic**
+* **Kaio Alexsander da Silva de Sá**
 
 ## 🧩 Descrição do Projeto
 
